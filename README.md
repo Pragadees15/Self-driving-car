@@ -24,10 +24,10 @@
 <!-- Interactive Navigation with Emojis -->
 <p align="center">
   <a href="#-what-makes-this-special">🌟 Special Features</a> •
-  <a href="#-features">🎮 Features</a> •
-  <a href="#-ai-architecture">🧠 AI Architecture</a> •
-  <a href="#-training">📊 Training</a> •
-  <a href="#-installation">🛠️ Installation</a>
+  <a href="#-features-that-will-blow-your-mind">🎮 Features</a> •
+  <a href="#-ai-architecture-the-brain-behind-the-magic">🧠 AI Architecture</a> •
+  <a href="#-training-watch-ai-become-a-racing-legend">📊 Training</a> •
+  <a href="#%EF%B8%8F-installation-get-ready-for-liftoff">🛠️ Installation</a>
 </p>
 
 </div>
